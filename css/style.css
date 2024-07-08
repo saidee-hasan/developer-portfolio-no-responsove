@@ -125,3 +125,20 @@ main section{
     box-shadow: 0px 10px 50px 0px gray;
 
 }
+
+.experience-sub-title{
+    color: #757575;
+    font-weight:600 ;
+    font-size: 18px;
+    margin-bottom: 20px;
+
+}
+.experience-description,.experience-sub-title{
+    color: #757575;
+}
+.resume hr{
+    margin: 30px;
+}
+.resume-container{
+    display: flex;
+}
