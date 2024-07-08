@@ -148,3 +148,18 @@ footer{
     padding: 130px 230px;
     gap: 100px;
 }
+.footer-column{
+    width: 50%;
+}
+footer [type="text"] ,footer input[type="email"]{
+    height: 64px;
+    border-radius: 5px;
+    background-color: white;
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+    margin-bottom: 25px;
+    border: none;
+
+
+}
