@@ -25,7 +25,9 @@
     background-position: top left, bottom right;
     
 }
-
+.banner-profile-pic{
+    width: 450px;
+}
 /* Nav style */
 
 
@@ -161,5 +163,15 @@ footer [type="text"] ,footer input[type="email"]{
     margin-bottom: 25px;
     border: none;
 
+
+}
+input[type="submit"]{
+    background-color: #FD6E0A;
+    border: none;
+    color: white;
+    font: bold;
+    padding: 18px 35px;
+    border-radius: 6px;
+    cursor: pointer;
 
 }
