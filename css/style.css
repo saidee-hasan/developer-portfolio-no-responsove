@@ -168,7 +168,7 @@ footer [type="text"] ,footer input[type="email"]{
 input[type="submit"]{
     background-color: #FD6E0A;
     border: none;
-    color: white;
+    color: rgb(0, 0, 0);
     font: bold;
     padding: 18px 35px;
     border-radius: 6px;
